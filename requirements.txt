@@ -170,7 +170,7 @@ pylint==2.4.4
 pymongo==3.11.2
 PyMySQL==1.0.0
 pynput==1.6.6
-pyobjc-core==6.1
+# pyobjc-core==6.1
 # pyobjc-framework-Cocoa==6.1
 # pyobjc-framework-Quartz==6.1
 pyOpenSSL==19.1.0
