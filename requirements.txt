@@ -70,7 +70,7 @@ gast==0.3.3
 gensim==3.8.1
 geoip2==4.1.0
 gitdb2==2.0.3
-GitPython==2.1.9
+# GitPython==2.1.9
 glob3==0.0.1
 google-api-core==1.16.0
 google-auth==1.12.0
